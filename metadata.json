@@ -1,0 +1,7 @@
+{
+  "name": "ImportDirect B2B",
+  "description": "Application mobile B2B reliant commerçants de détail et micro-importateurs avec recherche filtrée, géolocalisation, messagerie sécurisée, suivi de commandes et paiements mobiles.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
